@@ -14,9 +14,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "pdfjs-dist": "^5.4.54"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.6",
     "@rollup/plugin-node-resolve": "^16.0.1",

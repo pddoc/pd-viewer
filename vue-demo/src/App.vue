@@ -1,5 +1,5 @@
 <script setup>
-import PdfViewer from "../..";
+import PdfViewer from "pd-viewer";
 
 // const viewer = new PdfViewer("viewer-id");
 // 以文档尺寸80%的比例渲染
@@ -33,7 +33,7 @@ const doNextPage = () => {
 </script>
 
 <template>
-  <h1>PdfViewer - 简单易用的pdf阅读器(基于pdfjs-dist封装)</h1>
+  <h1>PdViewer - 简单易用的pdf阅读器(基于pdfjs-dist封装)</h1>
   <h4>
     <a href="https://www.pddoc.cn" alt="pdf在线编辑器" target="_blank"
       >pdf在线编辑器：www.pddoc.cn</a
