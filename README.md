@@ -14,6 +14,9 @@ npm install pd-viewer
 import PdfViewer from "pd-viewer";
 
 const viewer = new PdfViewer("viewer-id");
+// 以文档尺寸80%的比例渲染
+// const viewer = new PdfViewer("viewer-id", 0.8);
+
 // 显示网络文件
 viewer.render("./a.pdf");
 
