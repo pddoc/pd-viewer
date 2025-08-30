@@ -1,0 +1,8 @@
+#viewer-id {
+    width: 80%;
+    height: 600px;
+    border: solid 1px #888;
+    background-color: #ddd;
+    border-radius: 10px;
+    overflow: auto;
+}
